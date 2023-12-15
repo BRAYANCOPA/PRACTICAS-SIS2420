@@ -1,0 +1,14 @@
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\NumerosLiteral\bin\Debug\net8.0\NumerosLiteral.exe
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\NumerosLiteral\bin\Debug\net8.0\NumerosLiteral.deps.json
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\NumerosLiteral\bin\Debug\net8.0\NumerosLiteral.runtimeconfig.json
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\NumerosLiteral\bin\Debug\net8.0\NumerosLiteral.dll
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\NumerosLiteral\bin\Debug\net8.0\NumerosLiteral.pdb
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\NumerosLiteral\obj\Debug\net8.0\NumerosLiteral.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\NumerosLiteral\obj\Debug\net8.0\NumerosLiteral.AssemblyInfoInputs.cache
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\NumerosLiteral\obj\Debug\net8.0\NumerosLiteral.AssemblyInfo.cs
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\NumerosLiteral\obj\Debug\net8.0\NumerosLiteral.csproj.CoreCompileInputs.cache
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\NumerosLiteral\obj\Debug\net8.0\NumerosLiteral.dll
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\NumerosLiteral\obj\Debug\net8.0\refint\NumerosLiteral.dll
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\NumerosLiteral\obj\Debug\net8.0\NumerosLiteral.pdb
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\NumerosLiteral\obj\Debug\net8.0\NumerosLiteral.genruntimeconfig.cache
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\NumerosLiteral\obj\Debug\net8.0\ref\NumerosLiteral.dll

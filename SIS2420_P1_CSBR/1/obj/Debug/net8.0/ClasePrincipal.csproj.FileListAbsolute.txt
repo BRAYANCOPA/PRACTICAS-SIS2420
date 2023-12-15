@@ -1,0 +1,14 @@
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\ClasePrincipal\bin\Debug\net8.0\ClasePrincipal.exe
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\ClasePrincipal\bin\Debug\net8.0\ClasePrincipal.deps.json
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\ClasePrincipal\bin\Debug\net8.0\ClasePrincipal.runtimeconfig.json
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\ClasePrincipal\bin\Debug\net8.0\ClasePrincipal.dll
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\ClasePrincipal\bin\Debug\net8.0\ClasePrincipal.pdb
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\ClasePrincipal\obj\Debug\net8.0\ClasePrincipal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\ClasePrincipal\obj\Debug\net8.0\ClasePrincipal.AssemblyInfoInputs.cache
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\ClasePrincipal\obj\Debug\net8.0\ClasePrincipal.AssemblyInfo.cs
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\ClasePrincipal\obj\Debug\net8.0\ClasePrincipal.csproj.CoreCompileInputs.cache
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\ClasePrincipal\obj\Debug\net8.0\ClasePrincipal.dll
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\ClasePrincipal\obj\Debug\net8.0\refint\ClasePrincipal.dll
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\ClasePrincipal\obj\Debug\net8.0\ClasePrincipal.pdb
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\ClasePrincipal\obj\Debug\net8.0\ClasePrincipal.genruntimeconfig.cache
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\ClasePrincipal\obj\Debug\net8.0\ref\ClasePrincipal.dll

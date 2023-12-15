@@ -1,0 +1,14 @@
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\Listas\obj\Debug\net8.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\Listas\obj\Debug\net8.0\Listas.AssemblyInfoInputs.cache
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\Listas\obj\Debug\net8.0\Listas.AssemblyInfo.cs
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\Listas\obj\Debug\net8.0\Listas.csproj.CoreCompileInputs.cache
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\Listas\bin\Debug\net8.0\Listas.exe
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\Listas\bin\Debug\net8.0\Listas.deps.json
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\Listas\bin\Debug\net8.0\Listas.runtimeconfig.json
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\Listas\bin\Debug\net8.0\Listas.dll
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\Listas\bin\Debug\net8.0\Listas.pdb
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\Listas\obj\Debug\net8.0\Listas.dll
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\Listas\obj\Debug\net8.0\refint\Listas.dll
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\Listas\obj\Debug\net8.0\Listas.pdb
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\Listas\obj\Debug\net8.0\Listas.genruntimeconfig.cache
+D:\Archivos Brayan\MATERIAS FNI\ACTUALIZACION TECNOLOGICA SIS 2420\Ejercicios_C#\Listas\obj\Debug\net8.0\ref\Listas.dll
